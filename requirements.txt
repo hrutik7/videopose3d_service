@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+httpx
+numpy
+torch      # if this errors, install torch separately (see notes below)
+matplotlib

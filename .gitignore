@@ -1,0 +1,17 @@
+.venv
+
+/VideoPose3d/vpose-env
+/VideoPose3d/vpose-env
+
+
+__pycache__/*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+VideoPose3d
